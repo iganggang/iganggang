@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @iganggang
 - 👀 I’m interested in python and matlab.
-- 🌱 I’m currently learning civil engineering.
+- 🌱 I’m currently learning computer and civil engineering.
 - 💞️ I’m looking to collaborate on research.
 - 📫 How to reach me gangzengtj.@gmail.com
 
